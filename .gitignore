@@ -1,0 +1,27 @@
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Environment variables
+.env
+
+# Frontend
+node_modules/
+dist/
+
+# Local databases
+*.db
+*.sqlite
+
+# OS files
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+Archive.zip
+data/raw/*_BACKUP.csv
+data/raw/*BEFORE_NONE_FIX.csv
