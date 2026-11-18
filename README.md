@@ -228,23 +228,18 @@ Latest test results:
 - Explanations show influential TF-IDF features, not causal explanations.
 - More independently annotated Hindi, Bengali and code-mixed comments are required for reliable generalisation.
 
-## GitHub Setup
+## GitHub Repository
 
-After creating a GitHub repository, use:
+Repository: https://github.com/vanditagoel/Global-Warming-Stance-Detection
 
-```bash
-git init
-git add .
-git commit -m "Initial Indic Climate Stance Challenge implementation"
-git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/indic-climate-stance-challenge.git
-git push -u origin main
-```
+The repository contains the frontend, backend, baseline ML pipeline, dataset documentation, evaluation reports, and project progress report.
 
-Replace `YOUR_USERNAME` with your GitHub username and use your actual repository URL.
+## Team Contributions
 
-Add team members as collaborators through GitHub Settings → Collaborators.
+- **Vandita Goel:** Dataset collection, cleaning, preprocessing, and dataset documentation.
+- **Yaditi and Vanshika:** Collaborative work on model development, training, evaluation, backend implementation, frontend development, and overall application integration.
 
+The project components were developed through collaborative effort, with shared responsibilities across implementation and testing.
 ## License
 
 Choose a license only after confirming the source dataset's redistribution permissions.
